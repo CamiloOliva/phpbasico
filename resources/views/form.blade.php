@@ -25,7 +25,7 @@
             Formulario de Contacto
         </h1>
 
-        <form class="space-y-5">
+        <form action = "/store" method= "GET">
             
             <!-- Campo Email -->
             <div>
@@ -55,7 +55,7 @@
 
             <!-- Botón -->
             <button 
-                type="button"
+                type="submit"
                 class="w-full bg-gradient-to-r from-indigo-600 to-purple-600 text-white font-semibold py-3 rounded-lg shadow-lg hover:scale-105 transform transition duration-300"
             >
                 Enviar Mensaje
