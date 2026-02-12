@@ -10,9 +10,31 @@ Route::get('/mi-nombre', function () {
     return "CAMILO ANDRES OLIVA";
 });
 
-Route::get('/php-basico', function () {
-    
 
+Route::get('/contactanos', function () {
+    
+    
+    return view("form");
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Route::get('/php-basico', function () {
 
     echo "<h1 style= 'color:red; '> Aprendiendo PHP </h1>";
     $name = "Camilo Oliva";
