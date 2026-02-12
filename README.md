@@ -1,7 +1,7 @@
 # 👋 Hola, soy Camilo Andres Oliva Moreno
 
 <p align="center">
-  <img src="C:\Users\csu22\Desktop\Nueva carpeta\php-basico\Img\ff72c79b-c4c3-499b-adb8-6e833019907e.jpg" width="200" style="border-radius: 50%;" alt="Foto de TU_NOMBRE"/>
+  <img src="Img\ff72c79b-c4c3-499b-adb8-6e833019907e.jpg" width="200" style="border-radius: 50%;" alt="Foto de TU_NOMBRE"/>
 </p>
 
 ## 🚀 Sobre mí
